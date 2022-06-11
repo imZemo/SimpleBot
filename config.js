@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = ['5219996125657']
+global.owner = ['51917611323' , '51921909260' , '51933462225']
 global.mods = [] 
 global.prems = [] 
 global.APIs = { 
@@ -21,8 +21,8 @@ global.APIKeys = {
   'https://pencarikode.xyz': 'pais'
 }
 
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'wa.me/51917611323'
+global.author = '𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨 𓃵'
 global.multiplier = 9999 
 
 let fs = require('fs')
